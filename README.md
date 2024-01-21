@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bienvenido a mi Github!
 
-<!--
-**Nerscy/Nerscy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui encontraras mis últimos trabajos de python y del bootcamp de TheBridge.
 
-Here are some ideas to get you started:
+# Enlaces a mis proyectos:
+## Trabajos en solitario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Hundir la flota](https://github.com/AdrianNiet/flota-project)
+- [EDA](https://github.com/AdrianNiet/Proyecto-EDA)
+- [API Flask](https://github.com/AdrianNiet/Aplicacion-Flask)
+
+## Competiciones de Kaggle
+
+- [Predecir precios de portatiles](https://github.com/AdrianNiet/Portatiles-precio-Machine-learning)
+- [Predeccir estado de animo de una persona](https://github.com/AdrianNiet/Kaggle-Emotions)
+
+## Trabajos en equipo:
+
+- [Chatbot con Chatgpt](https://github.com/AdrianNiet/chatbot_gpt)
+- [Creacion de Base de datos en la nube con AWS](https://github.com/AdrianNiet/Proyecto-BBDD)
+- [Desadio de tripulaciones para Several Energy](https://github.com/AdrianNiet/DesafioTripulaciones_Sept23_Grupo2_Data)
