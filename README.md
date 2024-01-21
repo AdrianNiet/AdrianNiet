@@ -1,7 +1,7 @@
 
 # Bienvenido a mi Github!
 
-! [alt text](https://github.com/AdrianNiet/AdrianNiet/blob/main/The%20Bridge.JPG)
+![alt text](https://github.com/AdrianNiet/AdrianNiet/blob/main/The%20Bridge.JPG)
 
 Aqui encontraras mis últimos trabajos de python y del bootcamp de TheBridge.
 
