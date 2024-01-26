@@ -16,6 +16,7 @@ Aqui encontraras mis últimos trabajos de python y del bootcamp de TheBridge.
 
 - [Predecir precios de portatiles](https://github.com/AdrianNiet/Portatiles-precio-Machine-learning)
 - [Predeccir estado de animo de una persona](https://github.com/AdrianNiet/Kaggle-Emotions)
+- [Spaceship-titanic](https://github.com/AdrianNiet/Spaceship-titanic-Kaggle-)
 
 ## Trabajos en equipo:
 
