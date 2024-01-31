@@ -15,6 +15,7 @@ Aqui encontraras mis últimos trabajos de python y del bootcamp de TheBridge.
 ## Competiciones de Kaggle
 
 - [Predecir precios de portatiles](https://github.com/AdrianNiet/Portatiles-precio-Machine-learning)
+- [Predecir precios con spark](https://github.com/AdrianNiet/Predecir-porttiles-con-Spark)
 - [Predeccir estado de animo de una persona](https://github.com/AdrianNiet/Kaggle-Emotions)
 - [Spaceship-titanic](https://github.com/AdrianNiet/Spaceship-titanic-Kaggle-)
 
