@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/AdrianNiet/AdrianNiet/blob/main/The%20Bridge.JPG)
 
-En este Github es donde guardare mis proyectos y ejercicios con diferentes tipos de técnologias.
+En este Github es donde guardare mis proyectos y ejercicios con diferentes tipos de tecnologías.
 
 # Enlaces a mis proyectos:
 
