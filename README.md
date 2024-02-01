@@ -3,13 +3,13 @@
 
 ![alt text](https://github.com/AdrianNiet/AdrianNiet/blob/main/The%20Bridge.JPG)
 
-Aqui encontraras mis últimos trabajos de python y del bootcamp de TheBridge.
+Aqui encontraras mis trabajos y proyectos.
 
 # Enlaces a mis proyectos:
 ## Trabajos en solitario
 
 - [Hundir la flota](https://github.com/AdrianNiet/flota-project)
-- [EDA](https://github.com/AdrianNiet/Proyecto-EDA)
+- [EDA Analisis ventas de videojuegos procedentes de Japón](https://github.com/AdrianNiet/Proyecto-EDA)
 - [API Flask](https://github.com/AdrianNiet/Aplicacion-Flask)
 
 ## Competiciones de Kaggle
