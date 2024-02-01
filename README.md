@@ -3,9 +3,10 @@
 
 ![alt text](https://github.com/AdrianNiet/AdrianNiet/blob/main/The%20Bridge.JPG)
 
-Aqui encontraras mis trabajos y proyectos.
+En este Github es donde guardare mis proyectos y ejercicios con diferentes tipos de técnologias.
 
 # Enlaces a mis proyectos:
+
 ## Trabajos en solitario
 
 - [Hundir la flota](https://github.com/AdrianNiet/flota-project)
