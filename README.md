@@ -12,6 +12,7 @@ En este Github es donde guardare mis proyectos y ejercicios con diferentes tipos
 - [Hundir la flota](https://github.com/AdrianNiet/flota-project)
 - [EDA Analisis ventas de videojuegos procedentes de Japón](https://github.com/AdrianNiet/Proyecto-EDA)
 - [API Flask](https://github.com/AdrianNiet/Aplicacion-Flask)
+- [Trabajando con Spark](https://github.com/AdrianNiet/Manejo-datos-spark)
 
 ## Competiciones de Kaggle
 
